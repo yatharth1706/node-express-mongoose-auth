@@ -24,3 +24,6 @@
 - GET localhost:3000/auth/getAllUsers (This request is protected and only logged in users will be able to call this.)
 
 - POST localhost:3000/auth/logout 
+
+## Youtube Video Link
+https://youtu.be/osLnmm5tJT4
